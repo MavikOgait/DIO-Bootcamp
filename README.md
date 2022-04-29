@@ -1,4 +1,4 @@
-# DIO-DesafioGitHub-PrimeiroRepositorio
+# DIO-Spread Fullstack Developer
 *Desafio de  projetos sobre Git/GitHub*
 
 ### Linkss Úteis
